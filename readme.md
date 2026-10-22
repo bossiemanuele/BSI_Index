@@ -1,4 +1,4 @@
-# Boltzmann–Shannon Index: Revised Implementation
+# Boltzmann–Shannon Index: Implementation
 
 Python implementation and reproducible experiments for **Boltzmann–Shannon Index: A Measure of Density Balance in Clustered Data**.
 
