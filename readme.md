@@ -130,5 +130,3 @@ Use `extent='hull'` for a convex-hull sensitivity analysis. The selected estimat
 ## Data attribution
 
 Iris: R. A. Fisher, *Iris*, UCI Machine Learning Repository, [doi:10.24432/C56C76](https://doi.org/10.24432/C56C76), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The experiments use the corrected version distributed with scikit-learn; see the [dataset documentation](https://scikit-learn.org/1.8/modules/generated/sklearn.datasets.load_iris.html).
-
-This folder contains the revised covariance-normalized implementation. Results from the earlier raw-SVD implementation should not be treated as interchangeable with its outputs.
